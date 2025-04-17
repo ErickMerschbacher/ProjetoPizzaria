@@ -16,7 +16,7 @@ html{
   }
   
   .bgfundo {
-    background: url(https://placehold.co/1920x1080) no-repeat center/cover;
+    background: url(../img/principal1.png) no-repeat center/cover;
   
     /*background-color: blue;
          background-image: url(https://placehold.co/1920x1080);
@@ -40,7 +40,7 @@ html{
       to bottom,
       rgba(8, 155, 31, 0.8) 0%,
       rgba(114, 182, 124, 0.8) 60%,
-      rgba(104, 148, 110, 0.8) 100%
+      rgba(226, 232, 226, 0.8) 100%
     );
     background: -webkit-linear-gradient(
       to bottom,
